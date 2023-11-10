@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    background: rgb(252, 168, 224);
+    font-size: 2rem;
+
+}
+.navbar ul{
+display:flex;
+list-style-type: none;
+width: 100vw;
+justify-content:space-evenly;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight:800;
+}
