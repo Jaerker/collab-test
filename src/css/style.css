@@ -16,3 +16,9 @@ a{
     color: black;
     font-weight:800;
 }
+button{
+    padding:3vh;
+    border-style: none;
+    border-radius: 2vh;
+    background: blue;
+}
