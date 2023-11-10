@@ -17,6 +17,14 @@ a{
     font-weight:800;
 }
 
+
 header{
     background-color:brown
+
+button{
+    padding:3vh;
+    border-style: none;
+    border-radius: 2vh;
+    background: blue;
+
 }
